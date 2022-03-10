@@ -1,4 +1,4 @@
-### Code Linguage
+### Coding language
 - Python
 - Batch
 - Kotlin

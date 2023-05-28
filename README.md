@@ -4,13 +4,10 @@
   
 </div>
 
-<div align="center">
+### Coding language
+- Python
+- C# 
+- Rust (current learning)
 
-  # Stats
-  
-  [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=aniko33&count_private=false&show_icons=true&theme=dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Py-Moon&theme=dark&hide_border=false)<br/>
-
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniko33&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+### Contact
+- Discord: Aniko#8179

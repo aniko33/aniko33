@@ -9,10 +9,10 @@
     <h3>Coding language</h3>
     <ul>
       <li>Python</li>
+      <li>Rust</li>
       <li>C#</li>
       <li>JS</li>
       <li>C++ (beginner)</li>
-      <li>Rust (current learning)</li>
     </ul>
     <h3>Contact</h3>
     <ul>

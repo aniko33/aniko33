@@ -10,12 +10,10 @@
     <ul>
       <li>Python</li>
       <li>Rust</li>
-      <li>C#</li>
-      <li>JS</li>
-      <li>C++ (beginner)</li>
+      <li>C++</li>
     </ul>
     <h3>Contact</h3>
     <ul>
-      <li>Discord: Aniko#8179</li>
+      <li>Discord: Aniko7677</li>
     </ul>
   </div>

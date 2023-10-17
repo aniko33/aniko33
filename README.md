@@ -10,7 +10,7 @@
     <ul>
       <li>Python</li>
       <li>Rust</li>
-      <li>C++</li>
+      <li>Learning Kotlin...</li>
     </ul>
     <h3>Contact</h3>
     <ul>

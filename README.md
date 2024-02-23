@@ -11,7 +11,7 @@
   |
   |__[ 0x696b - PROJECTs ::  Unicorn (C2)/KeepMyHouse ]
   |
-  |__[ 0x6f21 - OS       ::  Arch Linux ]
+  |__[ 0x6f21 - OS       ::  Arch Linux               ]
   |
    \__{ Constancy and happiness } 
 ```

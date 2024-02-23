@@ -1,19 +1,11 @@
-<div align=center>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=4000&pause=200&color=A214FF&random=false&width=435&lines=This+is+Aniko;Offensive+security;Red+teamming+;Malware+development;Malware+Analysis)](https://git.io/typing-svg)
 
 ```
-[ 0x61:   Python/Rust/Kotlin/C ]
-[ 0x6e69:  VSCode/Vim/JB IDEs  ]
-[ 0x6b6f:     Linux user <3    ]
+ \
+  |
+  |__[ 0xLANGs   ::  Python/Rust/C/ASM x86    ]
+  |
+  |__[ !PROJECTs ::  Unicorn (C2)/KeepMyHouse ]
+  |
+   \__{ Constancy and happiness } 
 ```
-
-</div>
-
-<div align=center>
-
-    `\\ Projects //`
-    --------------
-    
-    - Unicorn - C2 Framework
-    - KeepMyHouse - Password manager
-
-</div>

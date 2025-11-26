@@ -1,4 +1,4 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6cacba44-a47c-4f57-90f1-f29c15cbddb2">
-  <img src="https://github.com/user-attachments/assets/c7e68aea-4067-4e29-9a15-77f1fcd1d6a3">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/3f8f5ca1-a08d-46e3-a926-40bc5ab0651a">
+  <img src="https://github.com/user-attachments/assets/40cae2c9-d9de-4550-bc77-ce849686aeee">
 </picture>
